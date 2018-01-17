@@ -13,19 +13,18 @@ Over 2 Billion people live in cities with air quality below World Health Organiz
 
 ## Requirements (Experimental Design)
 
+Hypothesis: Providing accurate and timely data on EPA pollutants will allow the population to make smarter decisions and improve their quality of life.
+
 For the purpose of this experiment, simulating an entire cities air pollution control system would be far too large of an undertaking.  Instead, I'll focus on one city block.  There will be one component, Air Pollution control, with two sub-components Sensors and Population.  Sensors will collect data from the atmosphere around the city block and notify the Popluation on the EPA pollutants in their area.  If the EPA pollutants are too high it will notify the popluation that it is unsafe to conduct specific activities like exercise outside, walk your pet, etc.  The alerts they recieve will be determined by the amount of EPA pollutants in their area.
 
-Hypothesis: Providing accurate and timely data on EPA pollutants will allow the population to make smarter decisions and improve their quality of life.
 
 ## Smart City (My Problem) Model
 
-(remove: add a high-level overview of your model, the part below should link to the model directory markdown files)
-(remove: Look at the [**Object Diagram**](model/object_diagram.md) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
+! [Object Diagram](images/AIr Pollution Control Object Diagram.png)
 
-* [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
-* [**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
-* [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
-* [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
+! [Class Diagram](images/Air Pollution Control Class Diagram.png)
+
+! [Behavior Diagram](images/Air Pollution Control Behavior Diagram.png )
 
 ## Smart City (My Problem) Simulation
 
