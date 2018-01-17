@@ -1,8 +1,7 @@
 # Assignment1 - Practice Designing Models (Template)
-(remove: **text between brackets to be removed**)
 
 > * Participant name: Brian Varns
-> * Project Title: (Title of the problem you are looking and modeling)
+> * Project Title: Air Pollution Control
 
 ## General Introduction
 
@@ -10,13 +9,13 @@ A **smart city** is an urban area that uses different types of electronic data c
 
 ![Image of Smart City](images/smartcity.png)
 
-(remove: States your motivation clearly: why is it important / interesting to solve this problem?)
-(remove: Add real-world examples, if any)
-(remove: Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+Over 2 Billion people live in cities with air quality below World Health Organization guidelines.  Removing air pollution completely is currently impossisible, but providing relief to these people is not.  Through a system of sensors, designed to gather microclimate data measurements for EPA pollutants, companies like Bosch are attempting to provide relief to citizens and provide data for city leaders to make more efficient decisions.  Bosch's Air Quality Micro Climate Monitoring System (MCMS) is currently in development to meet this need.
 
 ## Requirements (Experimental Design)
 
-(remove: You should start by specifying a set of requirements. I specified a topic Smart Cities but what exactly does that mean-  you should practice formulating your own set of requirements and an experiment. Define a hypothesis of a problem cities face and how a smart city would possibly help alleviate this issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
+For the purpose of this experiment, simulating an entire cities air pollution control system would be far too large of an undertaking.  Instead, I'll focus on one city block.  There will be one component, Air Pollution control, with two sub-components Sensors and Population.  Sensors will collect data from the atmosphere around the city block and notify the Popluation on the EPA pollutants in their area.  If the EPA pollutants are too high it will notify the popluation that it is unsafe to conduct specific activities like exercise outside, walk your pet, etc.  The alerts they recieve will be determined by the amount of EPA pollutants in their area.
+
+Hypothesis: Providing accurate and timely data on EPA pollutants will allow the population to make smarter decisions and improve their quality of life.
 
 ## Smart City (My Problem) Model
 
