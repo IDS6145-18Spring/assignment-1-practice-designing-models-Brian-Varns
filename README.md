@@ -20,11 +20,17 @@ For the purpose of this experiment, simulating an entire cities air pollution co
 
 ## Smart City (My Problem) Model
 
-! [Object Diagram](images/AIr Pollution Control Object Diagram.png)
+## Object Diagram
 
-! [Class Diagram](images/Air Pollution Control Class Diagram.png)
+![Object Diagram](images/AIr Pollution Control Object Diagram.png)
 
-! [Behavior Diagram](images/Air Pollution Control Behavior Diagram.png )
+## Class Diagram
+
+![Class Diagram](images/Air Pollution Control Class Diagram.png)
+
+## Behavior Diagram
+
+![Behavior Diagram](images/Air Pollution Control Behavior Diagram.png)
 
 ## Smart City (My Problem) Simulation
 
