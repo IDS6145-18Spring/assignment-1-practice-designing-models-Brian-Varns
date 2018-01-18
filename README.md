@@ -1,4 +1,4 @@
-# Assignment1 - Practice Designing Models (Template)
+# Assignment1 - **A**ir **P**ollution **C**ontrol **S**ystem (**ACPS**) Template
 
 > * Participant name: Brian Varns
 > * Project Title: Air Pollution Control
@@ -30,7 +30,7 @@ The Air Pollution Control System (ACPS) will set the following requirements:
 •10% or less of total system alerts are false positives
 
 
-## Smart City (My Problem) Model
+## **A**ir **P**ollution **C**ontrol **S**ystem (**ACPS**) Diagrams
 
 ## Object Diagram
 
@@ -44,14 +44,14 @@ The Air Pollution Control System (ACPS) will set the following requirements:
 
 ![**Behavior Diagram**](images/APCSBehaviorDiagram.png)
 
-## Smart City (My Problem) Simulation
+## **A**ir **P**ollution **C**ontrol **S**ystem (**ACPS**) Simulation
 
 An agent based simulation is the best choice to simulate the Air Pollution Control System because it requires significant human/agent interaction. Specifically, Anylogic is a great tool to simulate the interaction of agents on the ACPS's Sensors, Population, and City Leaders.
 
 An example is included in the [**Analysis**](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-Brian-Varns/tree/master/analysis) file.
 
-## Smart City (My Problem) Model
+## **A**ir **P**ollution **C**ontrol **S**ystem (**ACPS**) Code
 [**Air Pollution Control**](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-Brian-Varns/commit/d12d75ca3b12b0fd20e0f64231f444700ce1df90?diff=unified) - Coding Framework
 
-## **A**ir **P**ollution **C**ontrol **S**ystem (**ACPS**) Model
+## **A**ir **P**ollution **C**ontrol **S**ystem (**ACPS**) Model Overview
 Here [**we provide an overview**](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-Brian-Varns/blob/master/code/README.md) of the **A**ir **P**ollution **C**ontrol **S**ystem (**ACPS**) Model and provide a source code template.
