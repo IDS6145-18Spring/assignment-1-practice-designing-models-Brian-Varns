@@ -54,4 +54,4 @@ An example is included in the [**Analysis**](https://github.com/IDS6145-18Spring
 [**Air Pollution Control**](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-Brian-Varns/commit/d12d75ca3b12b0fd20e0f64231f444700ce1df90?diff=unified) - Coding Framework
 
 ## **A**ir **P**ollution **C**ontrol **S**ystem (**ACPS**) Model
-Here [**we provide an overview**](assignment-1-practice-designing-models-Brian-Varns/code/README.md) of the **A**ir **P**ollution **C**ontrol **S**ystem (**ACPS**) Model and provide a source code template.
+Here [**we provide an overview**](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-Brian-Varns/blob/master/code/README.md) of the **A**ir **P**ollution **C**ontrol **S**ystem (**ACPS**) Model and provide a source code template.
