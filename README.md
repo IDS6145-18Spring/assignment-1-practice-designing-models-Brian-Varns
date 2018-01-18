@@ -24,7 +24,9 @@ Additionally, I'll look at the impacts these sensors have on city leaders and th
 The Air Pollution Control System (ACPS) will set the following requirements:
 
 •100% reduction in population conducting activities outside in heavy pollution.
+
 •80% reduction in population conducting activities outside in medium pollution.
+
 •10% or less of total system alerts are false positives
 
 
