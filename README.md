@@ -13,9 +13,9 @@ Over 2 Billion people live in cities with air quality below World Health Organiz
 
 ## Requirements (Experimental Design)
 
-Null Hypothesis: Providing accurate and timely data on EPA pollutants will have no effect on allowing the population to make smarter decisions and improve their quality of life.
+**Null Hypothesis:** Providing accurate and timely data on EPA pollutants will have no effect on allowing the population to make smarter decisions and improve their quality of life.
 
-Hypothesis: Providing accurate and timely data on EPA pollutants will allow the population to make smarter decisions and improve their quality of life.
+**Hypothesis:** Providing accurate and timely data on EPA pollutants will allow the population to make smarter decisions and improve their quality of life.
 
 For this experiment, simulating an entire cities air pollution control system would be far too large of an undertaking.  Instead, I'll focus on one city block.  There will be one component, Air Pollution Control, with four sub-components Sensors, Agents, Population, and City Leaders.  Sensors will collect data from the atmosphere around the city block and notify the Population on the EPA pollutants in their area.  If the EPA pollutants are too high it will notify the population that it is unsafe to conduct specific activities like exercise outside, walk your pet, etc.  The alerts they receive will be determined by the amount of EPA pollutants in their area.
 
@@ -34,15 +34,15 @@ The Air Pollution Control System (ACPS) will set the following requirements:
 
 ## Object Diagram
 
-![Object Diagram](images/AIr Pollution Control Object Diagram.png)
+![Object Diagram](images/APCSObjectDiagram.png)
 
 ## Class Diagram
 
-![**Class Diagram**](images/Air Pollution Control Class Diagram.png)
+![**Class Diagram**](images/APCSClassDiagram.png)
 
 ## Behavior Diagram
 
-![**Behavior Diagram**](images/Air Pollution Control Behavior Diagram.png)
+![**Behavior Diagram**](images/APCSBehaviorDiagram.png)
 
 ## Smart City (My Problem) Simulation
 
