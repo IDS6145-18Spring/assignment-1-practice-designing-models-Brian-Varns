@@ -7,8 +7,12 @@ The simulation will release Agents (EPA Pollutants) into the environment, which 
 The Air Pollution Control System will collect data on the following items:
 
 1.How many Air Pollutants are in the Environment (what level heavy, medium, normal)
+
 2.How many accurate alerts are provided by the sensors
+
 3.How many alerts are inaccurate or missed by the sensors
+
 4.Population reaction to these alerts
+
 5.City Leaders reaction to these alerts
 
