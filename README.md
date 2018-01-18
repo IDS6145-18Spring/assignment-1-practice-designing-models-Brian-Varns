@@ -34,7 +34,7 @@ The Air Pollution Control System (ACPS) will set the following requirements:
 
 ## Object Diagram
 
-![Object Diagram](images / AIr Pollution Control Object Diagram.png)
+![Object Diagram](images/AIr Pollution Control Object Diagram.png)
 
 ## Class Diagram
 
