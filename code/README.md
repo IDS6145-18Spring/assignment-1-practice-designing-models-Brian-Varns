@@ -4,7 +4,7 @@ There will be one component, Air Pollution Control, with four sub-components Sen
 
 Additionally, I'll look at the impacts these sensors have on city leaders and their decision making for day to day operations of the city.  As data comes in city leaders can make decisions to close certain bridges and reroute traffic to help control the level of pollutants in an area.
 
-![Class Diagram](images/Air Pollution Control Class Diagram.png)
+![Class Diagram](images/APCSClassDiagram.png)
 
 ## Coding Framework
 Starting coding framework for the Air Pollution Control System.
